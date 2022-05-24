@@ -6,13 +6,13 @@
 
 <img width="35%" align="right" alt="Github" src="assets/penguin-hi.gif" />
 
-I'm a 18yo Web Developer who is passionate about writing code, solving problems, UI/UX, and animation. I love working with design system, testable and efficient code using current best practices in web development.
+I'm Software Engineer who is passionate about writing code, technologies, and love to learn new things.
 
 ### A little more about me...
 
 - 😄 Pronouns: He/Him
 - 🌏 I'm from Indonesia
-- 📖 I’m currently learning Next.js and Typescript
+- 📖 I’m currently learning Microservices
 - 🎮 I love playing game and watching movies
 
 ### ⚡ Technologies
@@ -25,15 +25,20 @@ I'm a 18yo Web Developer who is passionate about writing code, solving problems,
 ![Sass](https://img.shields.io/badge/-Sass-3d1e2d?style=flat-square&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c4dbc3?style=flat-square&logo=node.js)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?flat-square&logo=ruby)
 - 📚 &nbsp;
 ![React](https://img.shields.io/badge/-React-1d414b?style=flat-square&logo=react)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-00232a?style=flat-square&logo=next.js)
 ![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat-square&logo=redux)
 ![Express](https://img.shields.io/badge/-Express-323330?style=flat-square&logo=express)
+![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?flat-square&logo=ruby-on-rails)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0b2d39?style=flat-square&logo=tailwindCSS)
 - 🛢 &nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-fdf4e7?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?flat-square&logo=sqlite)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ccdfc2?style=flat-square&logo=mongodb)
 - ⚙️ &nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-082439?style=flat-square&logo=webpack)
